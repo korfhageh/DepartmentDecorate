@@ -1,1 +1,22 @@
-//css  file for Site A
+
+body
+{
+    color: black;
+    background-image: url("https://cdn.wallpapersafari.com/34/56/epqRjt.jpg");
+    font-family: sans-serif;
+    font-weight:bold;
+}
+h1
+    {
+        text-align: center;
+        font-family: fantasy;
+    }
+Table
+{
+    border:border="2" bgcolor="#111111";
+    font-family: serif;
+    background-color: rgb(160,220,230);
+    Width: 300;
+    text-align:left;
+    
+}

@@ -1,1 +1,56 @@
-//css  file for Site B
+
+body
+{
+    color: black;
+    font-family: serif;
+    font-weight:bold;
+    text-align: center;
+    background-color: skyblue;
+}
+p
+{
+    background-color: aliceblue
+}
+h1
+    {
+        text-align: center;
+        font-family: sans-serif;
+        font-weight: 800;
+        background-color: aliceblue
+    }
+Table
+{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    font-family: serif;
+    background-color: #ffffff;
+    
+    Width: 500;
+    text-align:left;
+    
+}
+th 
+{
+text-align: center ;
+}
+.studioart-bg
+{
+    background-image: url("https://i.pinimg.com/originals/5b/60/a5/5b60a5140a8b7dbb5348cdbdc380a2e5.jpg");)
+}
+.economics-bg
+{
+    background-color: rgb(0,45,150);
+}
+.politics-bg
+{
+    background-color: rgb(136, 189, 191)
+}
+.computer-bg
+{
+    background-image: url(https://i.pinimg.com/originals/ee/62/c1/ee62c13a6026c8e76c473189c967cf43.jpg)
+}
+.math-bg
+{
+    background-image: url(https://wallpapercave.com/wp/PO6cjaY.jpg)
+}
